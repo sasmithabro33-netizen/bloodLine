@@ -1,0 +1,6 @@
+{
+  "name": "Bloodreign Competitive HUD",
+  "description": "Apex tactical command center, live tournament broadcast HUD, and roster intelligence suite for elite battle royale esports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
